@@ -1,6 +1,7 @@
 <p align="center">
   <img src="banner.png" alt="Kevin Castillo Banner" width="100%">
 </p>
+
 # Hi there 👋 I'm Kevin Castillo
 
 ### 💻 Software Development & Applied AI Student
