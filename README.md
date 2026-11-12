@@ -26,28 +26,6 @@ Floridablanca, Colombia &nbsp;&nbsp;/&nbsp;&nbsp; Spanish (native) &nbsp;&nbsp;/
 
 I work where solid backend engineering meets applied AI. I like systems where the domain is modeled carefully, the architecture is enforced by tests, and the AI layer is structured, validated and testable instead of a loose prompt.
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <h3>Focus</h3>
-      AI-powered backends<br/>
-      Intelligent automation
-    </td>
-    <td align="center" width="33%">
-      <h3>Style</h3>
-      Hexagonal architecture<br/>
-      Domain-driven design<br/>
-      Tested contracts
-    </td>
-    <td align="center" width="33%">
-      <h3>Mindset</h3>
-      Model the domain first<br/>
-      Automate what repeats<br/>
-      Ship, then refine
-    </td>
-  </tr>
-</table>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0b1220,50:3b82f6,100:0b1220" width="100%" alt="" />
 
 ## Featured projects
