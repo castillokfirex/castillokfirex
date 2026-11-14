@@ -10,6 +10,7 @@ Floridablanca, Colombia &nbsp;&nbsp;/&nbsp;&nbsp; Spanish (native) &nbsp;&nbsp;/
 
 <br/>
 
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-kevin--castillo--pabon-3b82f6?style=for-the-badge&labelColor=0b1220)](https://www.linkedin.com/in/kevin-castillo-pabon-449b28401/)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-castillokfirex.github.io-3b82f6?style=for-the-badge&labelColor=0b1220)](https://castillokfirex.github.io/portfolio-kevin-castillo/)
 [![Email](https://img.shields.io/badge/EMAIL-firexk993%40gmail.com-3b82f6?style=for-the-badge&labelColor=0b1220)](mailto:firexk993@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-castillokfirex-3b82f6?style=for-the-badge&labelColor=0b1220)](https://github.com/castillokfirex)
@@ -23,7 +24,7 @@ Floridablanca, Colombia &nbsp;&nbsp;/&nbsp;&nbsp; Spanish (native) &nbsp;&nbsp;/
 
 ## About
 
-I work where solid backend engineering meets applied AI. I like systems where the domain is modeled carefully, the architecture is enforced by tests, and the AI layer is structured, validated and testable instead of a loose prompt.
+Software Development & Applied AI Technician (**Campuslands**, 2026) and Teleinformatics Systems Technician (**SENA**, 2025). I work where solid backend engineering meets applied AI — systems where the domain is modeled carefully, the architecture is enforced by tests, and the AI layer is structured, validated and testable instead of a loose prompt.
 
 <table align="center" width="100%">
   <tr>
@@ -54,15 +55,15 @@ I work where solid backend engineering meets applied AI. I like systems where th
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/castillokfirex/Proyecto_RentaHerramientas_kevin_castillo_daniel_gamboa">RentaTools</a></h3>
-      Platform for renting machinery and tools. Modular monolith with hexagonal architecture and DDD, a 4NF-normalized schema, JWT security, versioned migrations, and architecture rules enforced with ArchUnit. Built with a teammate (35+ commits).
+      <h3><a href="https://github.com/castillokfirex/CV_analyzer">CV_analyzer</a></h3>
+      AI-powered PDF resume analyzer that evaluates candidate fit against job descriptions (<code>Experience 40%</code>, <code>Skills 35%</code>, <code>Education 15%</code>, <code>Coherence 10%</code>), delivering structured scoring, gap analysis, and persistent run history.
       <br/><br/>
-      <img src="https://img.shields.io/badge/Java%2021-0b1220?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Spring%20Boot-0b1220?style=flat-square&logo=springboot&logoColor=6DB33F" />
-      <img src="https://img.shields.io/badge/MySQL-0b1220?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Flyway-0b1220?style=flat-square&logo=flyway&logoColor=CC0200" />
-      <img src="https://img.shields.io/badge/Docker-0b1220?style=flat-square&logo=docker&logoColor=2496ED" />
-      <img src="https://img.shields.io/badge/ArchUnit-0b1220?style=flat-square" />
+      <img src="https://img.shields.io/badge/Python-0b1220?style=flat-square&logo=python&logoColor=3776AB" />
+      <img src="https://img.shields.io/badge/Gemini-0b1220?style=flat-square&logo=googlegemini&logoColor=8E75B2" />
+      <img src="https://img.shields.io/badge/Pydantic-0b1220?style=flat-square&logo=pydantic&logoColor=E92063" />
+      <img src="https://img.shields.io/badge/Streamlit-0b1220?style=flat-square&logo=streamlit&logoColor=FF4B4B" />
+      <img src="https://img.shields.io/badge/PostgreSQL-0b1220?style=flat-square&logo=postgresql&logoColor=4169E1" />
+      <img src="https://img.shields.io/badge/Docker%20Compose-0b1220?style=flat-square&logo=docker&logoColor=2496ED" />
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/castillokfirex/futbolistas_chatbot">Tribuna Global</a></h3>
@@ -78,35 +79,26 @@ I work where solid backend engineering meets applied AI. I like systems where th
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/castillokfirex/Proyecto_RentaHerramientas_kevin_castillo_daniel_gamboa">RentaTools</a></h3>
+      Platform for renting machinery and tools. Modular monolith with hexagonal architecture and DDD, a 4NF-normalized schema, JWT security, versioned migrations, and architecture rules enforced with ArchUnit. Built with a teammate (35+ commits).
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Java%2021-0b1220?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring%20Boot-0b1220?style=flat-square&logo=springboot&logoColor=6DB33F" />
+      <img src="https://img.shields.io/badge/MySQL-0b1220?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flyway-0b1220?style=flat-square&logo=flyway&logoColor=CC0200" />
+      <img src="https://img.shields.io/badge/Docker-0b1220?style=flat-square&logo=docker&logoColor=2496ED" />
+      <img src="https://img.shields.io/badge/ArchUnit-0b1220?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/castillokfirex/spring_tarea_bounded-context">Bounded Contexts API</a></h3>
       REST API split into <code>domain</code>, <code>application</code> and <code>infrastructure</code> modules. The domain has zero framework dependencies. Several bounded contexts, including patients, professionals and an AI chat.
       <br/><br/>
       <img src="https://img.shields.io/badge/Java-0b1220?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring%20Boot-0b1220?style=flat-square&logo=springboot&logoColor=6DB33F" />
       <img src="https://img.shields.io/badge/Spring%20Data%20JPA-0b1220?style=flat-square&logo=spring&logoColor=6DB33F" />
       <img src="https://img.shields.io/badge/JWT-0b1220?style=flat-square&logo=jsonwebtokens&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-0b1220?style=flat-square&logo=postgresql&logoColor=4169E1" />
       <img src="https://img.shields.io/badge/Flyway-0b1220?style=flat-square&logo=flyway&logoColor=CC0200" />
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/castillokfirex/postgres_proyecto">SST / PESV Database</a></h3>
-      Multi-tenant PostgreSQL design for occupational safety and road safety management: conceptual and physical models, triggers, traceability and reporting queries.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/PostgreSQL-0b1220?style=flat-square&logo=postgresql&logoColor=4169E1" />
-      <img src="https://img.shields.io/badge/PL%2FpgSQL-0b1220?style=flat-square" />
-      <img src="https://img.shields.io/badge/Docker%20Compose-0b1220?style=flat-square&logo=docker&logoColor=2496ED" />
-      <img src="https://img.shields.io/badge/Dev%20Containers-0b1220?style=flat-square&logo=visualstudiocode&logoColor=007ACC" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3><a href="https://github.com/castillokfirex/Proyecto_DeliveryBot_castillokevin">DeliveryBot</a></h3>
-      Ordering system for an internal cafeteria. An AI agent on Telegram handles the menu, cart and orders, and persists everything in real time.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/n8n-0b1220?style=flat-square&logo=n8n&logoColor=EA4B71" />
-      <img src="https://img.shields.io/badge/Telegram%20API-0b1220?style=flat-square&logo=telegram&logoColor=26A5E4" />
-      <img src="https://img.shields.io/badge/Groq%20(LLaMA)-0b1220?style=flat-square" />
-      <img src="https://img.shields.io/badge/Google%20Sheets-0b1220?style=flat-square&logo=googlesheets&logoColor=34A853" />
-      <img src="https://img.shields.io/badge/Docker-0b1220?style=flat-square&logo=docker&logoColor=2496ED" />
     </td>
   </tr>
 </table>
@@ -122,7 +114,7 @@ I work where solid backend engineering meets applied AI. I like systems where th
   </tr>
   <tr>
     <td><b>AI engineering</b></td>
-    <td>Python, LangChain (LCEL), Google Gemini, structured output with Pydantic, prompt design, AI agents</td>
+    <td>Python, LangChain (LCEL), Google Gemini (<code>google-genai</code>), structured output with Pydantic, Streamlit, prompt design, AI agents</td>
   </tr>
   <tr>
     <td><b>Data</b></td>
@@ -183,7 +175,7 @@ I work where solid backend engineering meets applied AI. I like systems where th
 
 Open to software and AI development roles, and to collaboration on interesting projects.
 
-[Portfolio](https://castillokfirex.github.io/portfolio-kevin-castillo/) &nbsp;/&nbsp; [firexk993@gmail.com](mailto:firexk993@gmail.com) &nbsp;/&nbsp; [github.com/castillokfirex](https://github.com/castillokfirex)
+[LinkedIn](https://www.linkedin.com/in/kevin-castillo-pabon-449b28401/) &nbsp;/&nbsp; [Portfolio](https://castillokfirex.github.io/portfolio-kevin-castillo/) &nbsp;/&nbsp; [firexk993@gmail.com](mailto:firexk993@gmail.com) &nbsp;/&nbsp; [github.com/castillokfirex](https://github.com/castillokfirex)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0b1220,50:1e3a8a,100:3b82f6&section=footer" width="100%" alt="" />
 
